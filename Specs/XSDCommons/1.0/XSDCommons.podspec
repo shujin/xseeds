@@ -1,12 +1,11 @@
 Pod::Spec.new do |s|
   s.name             = "XSDCommons"
-  s.version          = "0.1.0"
-  s.summary          = "Common category files included in most of my iOS projects."
+  s.version          = "1.0"
+  s.summary          = "Common category files included in most of my iOS projects"
   s.description      = <<-DESC
                        Common category files included in most of my iOS projects.
                        DESC
   s.homepage         = "https://github.com/shujin/XSDCommons"
-  # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Jinny Wong" => "jinny.wong@xseedsolutions.com" }
   s.source           = { :git => "https://github.com/shujin/XSDCommons.git", :tag => 1.0 }
